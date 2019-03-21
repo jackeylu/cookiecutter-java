@@ -2,7 +2,7 @@
 
 # Requirements
 
-* JDK version 7+
+* JDK version 8+
 
 ## Compile and run tests
 

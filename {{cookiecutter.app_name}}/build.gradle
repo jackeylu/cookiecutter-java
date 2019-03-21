@@ -2,6 +2,10 @@ apply plugin: 'java'
 apply plugin: 'idea'
 apply plugin: 'eclipse'
 
+tasks.withType(JavaCompile) {
+    options.encoding = 'UTF-8'
+}
+
 buildscript {
     repositories {
         mavenCentral()
