@@ -17,4 +17,4 @@ Requires
 Use cookiecutter-java
 ---------------------
 
-cookiecutter https://github.com/m-x-k/cookiecutter-java
+cookiecutter https://github.com/jackeylu/cookiecutter-java
